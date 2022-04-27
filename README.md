@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Siulok</h1>
 <h3 align="center">A web developer based in Toronto</h3>
 
-- 🔭 I’m currently working on [Repurpo](https://github.com/stang1207/repurpo)
-
 - 🌱 I’m currently learning **Next.js, Docker, Three.js**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-site-iota-topaz.vercel.app](https://portfolio-site-iota-topaz.vercel.app)
